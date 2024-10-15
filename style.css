@@ -10,6 +10,7 @@
 body {
     scroll-behavior: smooth;
     background: #FFFFFF;
+    overflow-x: hidden
 }
 
 .header {
